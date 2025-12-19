@@ -1,0 +1,7 @@
+{
+  "name": "LingoSync - AI Translator",
+  "description": "A powerful translation application that converts text from one language to another language",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
